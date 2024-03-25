@@ -1,6 +1,6 @@
 # housing-value-predictor
 
-# AmesHousingValuePredictor: Strategic Real Estate Analytics
+# Strategic Real Estate Analytics using Machine Learning Models
 
 ## Project Overview
 
