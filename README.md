@@ -35,6 +35,4 @@ To deepen our understanding of the housing market and enhance the applicability 
 
 - **[Housing Prices New York](https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market):** This dataset offers insights into the New York real estate market, featuring prices of houses along with broker titles, house types, number of bedrooms and bathrooms, property square footage, and geographical coordinates. It provides a comprehensive view of the housing trends in one of the world's most dynamic urban markets.
 
-- **[Housing Prices Miami](https://www.kaggle.com/datasets/deepcontractor/miami-housing-dataset):** Focusing on the Miami market, this dataset details 13,932 single-family homes sold, including features such as sale price, land area, floor area, and distance to amenities. Attributes like the age of the structure, structure quality, and sale month in 2016 are also covered, offering a detailed look into the South Florida housing market.
-
 By analyzing these datasets alongside our primary Ames, Iowa model, we aim to identify patterns and correlations that can inform a broader understanding of real estate dynamics across the United States. This expanded analysis will not only validate our Ames-focused model but also pave the way for a scalable, generalizable model applicable to diverse urban and regional contexts.
