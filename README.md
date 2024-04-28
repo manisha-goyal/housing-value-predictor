@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-AmesHousingValuePredictor is a comprehensive data science project designed to revolutionize the way stakeholders make decisions in the real estate market. Utilizing a detailed dataset from Ames, Iowa, this project develops a predictive model to accurately estimate house values based on a myriad of features. Aimed at investors, homeowners, builders, and developers, our model serves as a critical tool for informed decision-making in purchasing, renovating, and selling properties.
+Housing Value Predictor is a comprehensive data science project designed to revolutionize the way stakeholders make decisions in the real estate market. Utilizing a detailed dataset from Ames, Iowa, this project develops a predictive model to accurately estimate house values based on a myriad of features. Aimed at investors, homeowners, builders, and developers, our model serves as a critical tool for informed decision-making in purchasing, renovating, and selling properties.
 
 ## Objective
 
