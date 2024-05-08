@@ -10,7 +10,7 @@ This project aims to develop a predictive model to estimate house prices in Ames
 ## Dataset
 - The dataset, "House Prices of Ames, Iowa," is sourced from Kaggle and contains information on over 1,400 properties and 79 features.
 
-## Project Structure
+## Project Stages
 1. **Business Understanding:** Defines the project objectives and impact for stakeholders.
 2. **Data Understanding:** Describes the dataset, its sources, and possible biases.
 3. **Exploratory Data Analysis:** Examines key data distributions and correlations.
@@ -28,7 +28,7 @@ This project aims to develop a predictive model to estimate house prices in Ames
 - **Recommendations:** Provide strategic advice for real estate agents, developers, homeowners, and buyers.
 
 ## Repository Contents
-- `data/`: Directory containing the datasets .
+- `data/`: Directory containing the datasets.
 - `models/`: Directory containing the data understanding, data preparation, and model development scripts.
 - `plots/`: Visualizations generated during the analysis.
 - `presentation_and_reports/`: Final report and any presentations related to the project.
@@ -36,4 +36,4 @@ This project aims to develop a predictive model to estimate house prices in Ames
 ## How to Use
 - Clone the repository to your local environment.
 - Explore the notebooks provided for each stage of the project (EDA, data preparation, modeling).
-- Modify and run the code to analyze new datasets or reproduce the results.
+- Modify and run the code to analyze and reproduce the results.
