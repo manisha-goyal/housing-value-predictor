@@ -1,6 +1,6 @@
 # House Value Prediction for Strategic Real Estate Decision Making
 
-This project aims to develop a predictive model to estimate house prices in Ames, Iowa, supporting strategic decision-making for real estate stakeholders. The model leverages machine learning techniques to analyze a wide range of features and provide actionable insights for various groups, including real estate agents, developers, homeowners, and buyers.
+This project aims to develop a predictive model to estimate house prices in Ames, Iowa, supporting strategic decision-making for real estate stakeholders. The model leverages machine learning techniques to analyze a wide range of features and provide actionable insights for various groups, including real estate agents, developers, homeowners and buyers.
 
 ## Objectives
 - Build a predictive model to estimate residential property prices in Ames, Iowa.
